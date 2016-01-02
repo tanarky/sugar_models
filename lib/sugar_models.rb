@@ -1,5 +1,7 @@
 require "sugar_models/version"
 
 module SugarModels
-  # Your code goes here...
+  def self.greet
+    'Hello World!'
+  end
 end
