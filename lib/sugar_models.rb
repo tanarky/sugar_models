@@ -1,7 +1,12 @@
 require "sugar_models/version"
+require "sugar_models/placement"
+require "sugar_models/flight"
+require "sugar_models/io"
+require "sugar_models/targeting"
+require "sugar_models/ecpm"
+require "sugar_models/family"
+require "sugar_models/creative"
+require "sugar_models/zone"
+require "sugar_models/media"
+require "sugar_models/category"
 
-module SugarModels
-  def self.greet
-    'Hello World!'
-  end
-end
